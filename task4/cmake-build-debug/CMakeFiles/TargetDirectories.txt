@@ -1,3 +1,0 @@
-D:/vorv/task4/cmake-build-debug/CMakeFiles/task4.dir
-D:/vorv/task4/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/vorv/task4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
